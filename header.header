@@ -1,0 +1,9 @@
+{
+  "Authors": "Authors include Cappycot",
+  "Version": "00000000-0000-0000-0000-000000000000",
+  "ComponentId": {
+    "Guid": "6204ec15-7bd3-4505-ad2d-dcdd7ddf7f97",
+    "Name": "No Stability"
+  },
+  "Description": "Removes the inaccuracy penalty from low stability"
+}
